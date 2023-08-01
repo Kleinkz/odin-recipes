@@ -1,0 +1,30 @@
+body {
+    background-color: darkcyan;
+    color: orange;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 800;
+    margin: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 35px;
+    font-style: italic;
+    display: inline-block;
+}
+
+button a {
+    text-decoration: none;
+    font-size: 18px;
+    padding: 5px;
+    display: inline-block;
+}
+
+button {
+    margin: 5px;
+    margin-left: 15px;
+}
